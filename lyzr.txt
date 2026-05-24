@@ -1,0 +1,57 @@
+Hi vivek prajapati, I'm Sarah, your AI interviewer from hirevox. Thanks for joining this virtual interview! How are you doing today?
+
+Great! Walk me through your approach to analyzing and reducing bundle size for a React application showing performance degradation on mobile networks
+
+Understood. Can you elaborate on any codesplitting strategies you would consider using in this scenario?
+That's good. How do you measure the impact of the changes you make to the bundle size?
+
+Understood. What considerations do you have regarding the impact on CI/CD pipelines when implementing changes to reduce bundle size?
+
+Understood. Describe how you'd diagnose and resolve a situation where a React component rerenders excessively when only parent state changes
+
+That's a solid approach! Could you explain how you would use React DevTools profilers to further diagnose the rerendering issue?
+
+Understood. What specific memoization techniques would you recommend using in this scenario?
+
+How would you optimize state management for a complex form builder with nested conditional logic and real-time validation?
+
+I see. Could you explain what partial validation strategies you might implement in this scenario?
+
+Yes, what partial validation strategies would you implement for a complex form builder with nested conditional logic and real-time validation?
+
+Understood. What performance profiling techniques would you consider using to ensure the form builder remains responsive?
+
+Right. Describe your most challenging experience optimizing React component performance for a complex enterprise application. What specific architectural decisions did you make and why? 
+
+Understood. What specific metrics did you use to show the before and after improvements in performance?
+
+Right. Walk me through how you would implement routebased code splitting in a complex React application using React. lazy and Suspense while managing loading states and avoiding waterfall requests
+
+That's a good explanation! Could you discuss any route grouping strategies you would consider to optimize this implementation?
+
+
+Understood. What preload patterns would you implement to enhance the user experience during routebased code splitting?
+
+Right. Describe your approach to optimizing a complex dashboard with multiple realtime data visualizations, focusing on rendering performance, memory management, and network efficiency
+
+That's a solid approach! Could you elaborate on any frame throttling techniques you would consider implementing for rendering performance?
+
+Understood. What data sampling strategies would you implement to ensure efficient network usage while maintaining realtime updates?
+
+That's perfectly fine! Describe your most challenging TypeScript implementation where you had to create advanced utility types to solve complex component composition problems
+
+Understood. How would you design a TypeScript type system for a generative AIpowered component that handles dynamic schema generation while maintaining strict type safety during runtime?
+
+That's a good start! Could you discuss any runtime type validation strategies you would implement to ensure type safety?
+
+Understood. Describe how you would architect a complex realtime collaborative editing feature in React, similar to what Google Docs offers
+
+Could you explain any optimistic update strategies you would implement to enhance the user experience during collaborative editing?
+
+Right. Tell me about a time you had to refactor a major React component architecture. What was broken, how did you approach it, and what was the outcome?
+
+What specific metrics did you use to measure the success of the refactor?
+
+Understood. How would you optimize bundle size and loading performance for a large React SPA with 50+ routes and multiple lazyloaded modules?
+
+Could you discuss any specific bundle size budgets and monitoring strategies you would implement to ensure optimal performance?
